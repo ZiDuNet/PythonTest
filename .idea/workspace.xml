@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="422f0c10-372a-442f-92bc-7d9fa3698722" name="Default" comment="selenium自动化渲染网页+BeautifulSoup清洗数据并写入数据库（章节页面）">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/wsql.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/wsql.py" afterDir="false" />
+    <list default="true" id="422f0c10-372a-442f-92bc-7d9fa3698722" name="Default" comment="删除敏感信息">
       <change beforePath="$PROJECT_DIR$/爬虫/视频爬虫selen.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/视频爬虫selen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -405,7 +403,7 @@
       <workItem from="1604367104101" duration="60914000" />
       <workItem from="1605767418451" duration="559000" />
       <workItem from="1605770345000" duration="347000" />
-      <workItem from="1605775115449" duration="75000" />
+      <workItem from="1605775115449" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="2018年6月13日 09:48:13">
       <created>1528854929930</created>
@@ -463,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605767543107</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="删除敏感信息">
+      <created>1605775225570</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605775225570</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,7 +501,8 @@
     <MESSAGE value="2018年6月13日 09:48:13" />
     <MESSAGE value="2018年6月13日 09:48:1" />
     <MESSAGE value="selenium自动化渲染网页+BeautifulSoup清洗数据并写入数据库（章节页面）" />
-    <option name="LAST_COMMIT_MESSAGE" value="selenium自动化渲染网页+BeautifulSoup清洗数据并写入数据库（章节页面）" />
+    <MESSAGE value="删除敏感信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除敏感信息" />
   </component>
   <component name="WindowStateProjectService">
     <state x="656" y="102" key="#1" timestamp="1604302405406">
@@ -563,14 +569,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="927" height="345" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604571230050" />
+    <state x="282" y="86" key="MergeDialog" timestamp="1605775296011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="282" y="86" key="MergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605775296011" />
+    <state x="845" y="386" width="425" height="267" key="MultipleFileMergeDialog" timestamp="1605775296025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="386" width="425" height="267" key="MultipleFileMergeDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605775296025" />
     <state x="489" y="189" width="1134" height="851" key="SettingsEditor" timestamp="1604391113787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="489" y="189" width="1134" height="851" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604391113787" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605767554881">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605775266278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605767554881" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605775266278" />
     <state x="662" y="74" width="596" height="891" key="find.popup" timestamp="1604302607188">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
