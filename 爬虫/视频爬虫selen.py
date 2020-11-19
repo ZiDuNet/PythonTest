@@ -85,11 +85,10 @@ for tag in soup.find_all('li', class_='task-item task-content mouse-control infi
 
 # ##登录代码
 # username=driver.find_element_by_id('login_username')
-# username.send_keys('董磊')
+# username.send_keys('董
 # password=driver.find_element_by_id('login_password')
 # password.send_keys('002332')
 # driver.find_element_by_xpath('//*[@id="login-form"]/div[4]/button').click()
-
 
 # driver.add_cookie("REMEMBERME:"Qml6XFVzZXJcQ3VycmVudFVzZXI6Wkc5dWJtVmZNVGs0TVVCb2IzUnRZV2xzTG1OdmJRPT06MTYzMDM5MjAzMjpkOGFlNzg5OWZiNDA5MTA1Njk4MDRmNmFmNjYxZGQzNDRlOGQwNmZlMmE4ZTI0OWJjN2ZhNGZjNDBjMzU2NDc2;","_pk_testcookie.179.c5a7"="1","online-uuid":"A999F7C9-23CF-7146-1A5C-C10D996EDBE9","PHPSESSID":"4ba4a3oom4jb1nagmd6v2sh7jg","_pk_ses.179.c5a7":"1,"_pk_id.179.c5a7":"3deebaee9a8814bd.1598856027.3.1604306811.1604306222.")
 # response = requests.request("GET", url, data=payload, headers=headers)
