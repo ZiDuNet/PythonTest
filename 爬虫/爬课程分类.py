@@ -29,7 +29,7 @@ driver.add_cookie(
      'secure': False,
      'value': 'Qml6XFVzZXJcQ3VycmVudFVzZXI6Wkc5dWJtVmZNVGs0TVVCb2IzUnRZV2xzTG1OdmJRPT06MTYzNTkyMzA0MTo2ZWIwNTVhZTM5OGVkNDYzNWY5ODNhMmQ1NzUzZGZlOWEwODhkMWFkYTJjMmMzZjk5MTk0OTA5MDczNzI1MmEy'})
 # driver.delete_all_cookies()
-# setcookie后等待三秒加载视频列表页面
+# setcookie后等待三秒加载视频列表页面```````````
 driver.set_page_load_timeout(3000)
 # 页面下滑到底加载列表
 driver.get('http://www.ghmba.online/my/courses/learning?page=2')
