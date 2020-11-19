@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="422f0c10-372a-442f-92bc-7d9fa3698722" name="Default" comment="selenium自动化渲染网页+BeautifulSoup清洗数据并写入数据库（章节页面）">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/爬课程分类.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/爬课程分类.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/wsql.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/wsql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/视频爬虫selen.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/视频爬虫selen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,7 +403,9 @@
       <updated>1528264447883</updated>
       <workItem from="1604301115689" duration="11338000" />
       <workItem from="1604367104101" duration="60914000" />
-      <workItem from="1605767418451" duration="81000" />
+      <workItem from="1605767418451" duration="559000" />
+      <workItem from="1605770345000" duration="347000" />
+      <workItem from="1605775115449" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="2018年6月13日 09:48:13">
       <created>1528854929930</created>
@@ -453,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604558733971</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="selenium自动化渲染网页+BeautifulSoup清洗数据并写入数据库（章节页面）">
+      <created>1605767543107</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605767543107</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,10 +567,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="489" y="189" width="1134" height="851" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604391113787" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605767483029">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605767554881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605767483029" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605767554881" />
     <state x="662" y="74" width="596" height="891" key="find.popup" timestamp="1604302607188">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
